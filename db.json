@@ -17,6 +17,12 @@
       "text": "Go Hiking with Jessica",
       "day": "March 22 at 2:00pm",
       "reminder": false
+    },
+    {
+      "text": "Finish vue-task-traker application",
+      "day": "March 23rd at 6:20pm",
+      "reminder": true,
+      "id": "BzpOi1s"
     }
   ]
 }
